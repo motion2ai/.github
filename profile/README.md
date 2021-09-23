@@ -10,7 +10,7 @@ We are building AI technologies and services to improve efficiency and safety fo
 We digitalize and automate traditional processes, while optimizing for diverse collaboration between established systems and autonomous robots.
 
 
-### Some of our stack
+### ⚡ Some of our stack
 
 <p align="left">
  <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -42,7 +42,7 @@ We digitalize and automate traditional processes, while optimizing for diverse c
 <br>
 
 
-### We are always looking for talented individuals to join our team
+### 🧑‍💻 We are always looking for talented individuals to join our team
 
 At Motion2AI we pride ourselves on our great team! Think you’d be a good fit?
 
