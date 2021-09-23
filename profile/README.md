@@ -34,7 +34,7 @@ We digitalize and automate traditional processes, while optimizing for diverse c
 
 <p align="left">
  <img align="left" alt="docker" src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge" />
- <img align="left" alt="aws" src="https://img.shields.io/badge/Linux-807F83?logo=linux&logoColor=white&style=for-the-badge" />
+ <img align="left" alt="linux" src="https://img.shields.io/badge/Linux-807F83?logo=linux&logoColor=white&style=for-the-badge" />
  <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 </p>
 
