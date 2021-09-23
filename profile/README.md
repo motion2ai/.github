@@ -39,6 +39,8 @@ We digitalize and automate traditional processes, while optimizing for diverse c
 </p>
 
 <br>
+<br>
+
 
 ### We are always looking for talented individuals to join our team
 
