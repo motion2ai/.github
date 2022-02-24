@@ -2,7 +2,7 @@
 ## Hello there, we are Motion2AI 👋
 
 
-<img src="https://user-images.githubusercontent.com/7591107/134465580-303f9010-4a5d-40c6-a880-11b002c6feca.png" alt="Motion2AI" />
+<img src="https://user-images.githubusercontent.com/7591107/155625101-68d0dfa3-ccb5-49c3-a4af-e8a5ede5663d.png" alt="Motion2AI" />
 
 
 We are building AI technologies and services to improve efficiency and safety for warehouse mobility operations. 
